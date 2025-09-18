@@ -15,7 +15,7 @@
 ## Data Source :
 Dataset used for this task was presented by [PW-Skills](#pw-skills).
 
-**Dataset:** [health_activity_data](./health%20activity%20data.csv)
+**Dataset:** [health_activity_data](./health_activity_data.csv)
 
 ## Data preparation :
 Completed the Data transformation in Power Query and the dataset loaded into Microsoft Power BI Desktop for modeling.
